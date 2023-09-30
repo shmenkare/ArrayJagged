@@ -1,0 +1,9 @@
+ArrayJagged.csproj
+ArrayJagged.sln
+ArrayJagged.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
